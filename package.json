@@ -1,7 +1,7 @@
 {
   "name": "learnstorybook-design-system-template",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -79,5 +79,7 @@
   },
   "resolutions": {
     "jackspeak": "2.1.1"
-  }
+  },
+  "repository": "https://github.com/k38/learnstorybook-design-system.git",
+  "author": "k38 <matumoto.stc@gmail.com>"
 }
